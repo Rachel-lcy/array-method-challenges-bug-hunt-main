@@ -42,7 +42,7 @@ function checkValidUserName (arr) {
       console.log(user.name, "OK")
     } else {
       console.log(user.name, "BAD")
-    }
+    } 
   })
 }
 
